@@ -32,8 +32,8 @@ Este é um aplicativo simples de To-Do List desenvolvido em Laravel. O objetivo 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/lucasFreitasDev97/to-do-list.git
+  
 2. Instale as dependências do projeto:
    composer install
 
