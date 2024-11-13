@@ -53,6 +53,8 @@ Este é um aplicativo simples de To-Do List desenvolvido em Laravel. O objetivo 
 
 8. Acesse a aplicação em http://localhost:8000.
 
-Contribuição: Se você quiser contribuir com este projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações. Agradecemos todas as contribuições!
+## Contribuição 
+Se você quiser contribuir com este projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações. Agradecemos todas as contribuições!
 
-Licença: Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
